@@ -1,0 +1,7 @@
+ hello everyone..  i have some issue in my git system.......
+ and this is demo for pushing your projrct in github using git in ubuntu.
+ if i succed, you can see my massage ..
+ 
+ 
+ 
+ 
